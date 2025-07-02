@@ -1,1 +1,0 @@
-// App React - Loja Veneza Cosméticos
